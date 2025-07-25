@@ -11,13 +11,13 @@ function greet(name) {
   console.log("Hello, " + name + "!");
 }
 
-greet("Alex");
+greet("User");
 `,
   python: `
 def greet(name):
     print("Hello, " + name + "!")
 
-greet("Alex")
+greet("User")
 `,
   java: `
 public class HelloWorld {
@@ -31,7 +31,7 @@ public class HelloWorld {
 using namespace std;
 
 int main() {
-    cout << "Hello, Alex!" << endl;
+    cout << "Hello, User!" << endl;
     return 0;
 }
 `
