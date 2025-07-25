@@ -16,7 +16,9 @@ A powerful **real-time collaborative code editor** built with **React**, **Monac
 
 ## 📷 Screenshots (Optional)
 
-<!-- Add screenshots or demo GIFs here -->
+https://github.com/user-attachments/assets/9f23a0f3-4e12-4d4a-af99-397a036c451b
+
+
 
 ## 🛠 Tech Stack
 
@@ -76,12 +78,5 @@ npm run dev
 ```
 
 Runs on: `http://localhost:5173`
-
----
-
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
