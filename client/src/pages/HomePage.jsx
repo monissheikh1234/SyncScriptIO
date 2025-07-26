@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../assets/Logo1.png";
+import Logo from "../assets/logo1.png";
 import StudentImage from "../assets/image.png"; // <-- your image here
 import { v4 as uuidv4 } from "uuid";
 import { toast } from "react-toastify";
