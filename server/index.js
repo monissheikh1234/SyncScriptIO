@@ -18,17 +18,13 @@ const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
     origin: [
-      "http://localhost:5173", // for local dev
-      "https://syncscriptio-client.onrender.com" // for production
+      "http://localhost:5173",
+      "https://syncscriptio-client.onrender.com",
     ],
     methods: ["GET", "POST"],
   },
 });
 
-"],
-    methods: ["GET", "POST"],
-  },
-});
 
 const userSocketMap = {};
 const roomData = {};
