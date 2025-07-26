@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/Logo1.png";
+import Logo from "../assets/logo1.png";
 import Client from "./Client";
 import { toast } from "react-toastify";
 import { useNavigate } from "react-router-dom";
